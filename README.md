@@ -1,2 +1,3 @@
 # html-repo
-Concepts of html for building websites
+
+This repository is completely dedicated for practicing html
